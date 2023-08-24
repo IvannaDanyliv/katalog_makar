@@ -1,0 +1,8 @@
+h1{text-align: center;
+background-color: rgba(29, 0, 251, 0.984);}
+body{background-color: rgba(146, 236, 228, 0.511);}
+.katalog{display:flex; 
+     flex-wrap:wrap;
+     justify-content: space-between;
+     }
+p{background-color: antiquewhite;}
